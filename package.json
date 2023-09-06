@@ -1,0 +1,14 @@
+{
+  "name": "certificate",
+  "version": "1.0.0",
+  "description": "sign test",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "vitorsorato",
+  "license": "ISC",
+  "dependencies": {
+    "xml-crypto": "^4.1.0"
+  }
+}
